@@ -1,0 +1,15 @@
+{
+  "questions": 311,
+  "questions_with_images": 311,
+  "questions_without_images": 0,
+  "image_files": 441,
+  "image_bytes": 923641265,
+  "images_per_question": {
+    "1": 222,
+    "2": 54,
+    "3": 30,
+    "4": 4,
+    "5": 1
+  },
+  "subset": "all311"
+}
